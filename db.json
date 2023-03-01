@@ -1,9 +1,11 @@
- "usuarios": [
+{
+  "posts": [
     {
-      "nombre": "gorge",
-      "empresa": "daxa",
-      "email": "gorge-Daxa@gmail.com",
-      "telefono": "1127283712",
-      "notas": "primer usuario registrado",
-      "id": 1
-    },
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
