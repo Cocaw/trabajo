@@ -1,11 +1,29 @@
 {
-  "posts": [
+  "usuario": [
     {
-      "id": 1,
-      "title": "hello"
+      "nombre": "Gorge",
+      "empresa": "Daxa",
+      "email": "gorge-daxa@gmail.com",
+      "telefono": "1127362712",
+      "notas": "usuario 1",
+      "id": 1
+    },
+    {
+      "nombre": "Silvia",
+      "empresa": "Daxa",
+      "email": "Silvia-daxa@gmail.com",
+      "telefono": "999121243",
+      "notas": "hola soy axel",
+      "id": 2
+    },
+    {
+      "nombre": "Claudio",
+      "empresa": "Daxa",
+      "email": "claudio-daxa@gmail.com",
+      "telefono": "9456456456",
+      "notas": "",
+      "id": 3
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   
+  ]
 }
